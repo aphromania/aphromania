@@ -22,7 +22,7 @@
 <br/>
 
 <img src="https://github.com/vampiretestacc/vampiretestacc/blob/975ec4ba8837d10537f9b1b9fb35ad1b51d7cd67/Untitled396_20260711045503.png" width="350" align="right" style="margin-right: 20px;" />
- <p align="center"> <b>Interests</b> :  Hetalia , roblox (phighting, DoD, CoS, Blocktales, Regretevator etc.) , Genshin , HSR , Deltarune , CRK , Brawl Stars etc . </p> 
+ <p align="center"> <b>Interests</b> :  Hetalia , roblox (phighting, DoD, CoS, Blocktales, Regretevator etc.), Genshin , HSR , Deltarune , CRK , Brawl Stars etc . </p> 
 <br/>
 <p align="center"> <b>Music</b> :  Pierce The Veil , And One , She Wants Revenge , Metallica , Scorpions , Deftones , MCR , MSI etc . </p> 
 
